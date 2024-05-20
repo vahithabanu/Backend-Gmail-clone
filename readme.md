@@ -1,6 +1,12 @@
 ## This readme file shows the database content 
 
-### Folder name:Server
+###  Project Folder name:server(Backend Code)
+
+### To run this code:
+
+> cd server
+
+> npm start
 
 ### Components:
 
